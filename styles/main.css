@@ -1,0 +1,22 @@
+h1 {
+
+	color: darkorchid;
+	font-family: sans-serif;
+	font-size: 100px;
+}
+
+.snowflake {
+	font-style: italic;
+	font-weight: bolder;
+	font-size: 46px;
+	font-variant: small-caps;
+	border: 15px solid;
+}
+
+#emma {
+	padding: 30px;
+	margin: 70px;
+	border: 4px red solid;
+	background-color: cornflowerblue;
+	cursor: crosshair;
+}
